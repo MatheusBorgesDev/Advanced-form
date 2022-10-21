@@ -272,3 +272,8 @@ button {
     color: #FFFFFF;
 
 }
+
+button:hover {
+    background: #be5c51;
+    cursor: pointer;
+}
