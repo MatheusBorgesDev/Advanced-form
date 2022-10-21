@@ -6,7 +6,7 @@
 
 ![preview](./.github/preview.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/Desafio-avancado---Stage-2---Turma-6---Explorer---Rocketseat/)
+🔗 [Clique aqui para acessar](https://mbslash.github.io/Desafio-avancado---Stage-3---Formulario/)
 
 ## 💻 Tecnologias
 
