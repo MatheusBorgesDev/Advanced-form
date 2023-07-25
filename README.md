@@ -1,20 +1,22 @@
-# Desafio avançado | Stage 3
+# Advanced Form
 
-> Projeto construído durante as aulas da trilha Explorer da Rocketseat.
+## A form with several different inputs for the user to submit
 
-    As aulas tiveram o objetivo de construir o HTML e o CSS da aplicação a partir de um modelo do Figma, com foco na estilização dos campos input e checkbox. 
+> Project built during classes on the Explorer trail at Rocketseat educational institution.
+> 
+> The classes had the objective of building the application's HTML and CSS from a Figma model, with emphasis on the styling of the input and checkbox fields.
 
 ![preview](./.github/preview.png)
 
-🔗 [Clique aqui para acessar](https://mbslash.github.io/Desafio-avancado---Stage-3---Formulario/)
+🔗 [Click here to access](https://matheusborgesdev.github.io/Advanced-form/)
 
-## 💻 Tecnologias
+## 💻 Technologies
 
 - HTML
 - CSS
-- Git e Github
+- Git & Github
 - Figma
 
-## 📧 Contato
+## 📧 Contact
 
 matheusb.dev@gmail.com
